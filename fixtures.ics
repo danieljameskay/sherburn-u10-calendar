@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sherburn White Rose Juniors//FA Full-Time Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sherburn White Rose Juniors U10 Tigers
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+SUMMARY:Sherburn U10 Tigers at Townville Allstars U10 (Away)
+DTSTART:20260912T093000Z
+DTEND:20260912T110000Z
+DTSTAMP:20260906T154402Z
+UID:fa-fulltime-30602874-team-923241651@sherburn-u10-calendar
+SEQUENCE:0
+CATEGORIES:Football,Sherburn U10 Tigers
+DESCRIPTION:Opponent: Townville Allstars U10\nHome/Away: Away\nHome team: 
+ Townville Allstars U10\nAway team: Sherburn White Rose Juniors U10 Tigers\
+ nCompetition: U10 Autumn Wembley\nFA fixture ID: 30602874\nSource: https:/
+ /fulltime.thefa.com/displayFixture.html?id=30602874
+LAST-MODIFIED:20260906T154402Z
+LOCATION:TOWNVILLE RECREATION AND SPORTS CLUB
+STATUS:CONFIRMED
+URL:https://fulltime.thefa.com/displayFixture.html?id=30602874
+X-FA-FIXTURE-ID:30602874
+X-FA-SOURCE-HASH:a85e9d12b957123131d80cde981567996fe2335bf972b84315a350d9c
+ b1d848f
+X-FA-TEAM-ID:923241651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherburn U10 Tigers vs Goole Town Tigers JFC U10 Black (Home)
+DTSTART:20260919T093000Z
+DTEND:20260919T110000Z
+DTSTAMP:20260906T154402Z
+UID:fa-fulltime-30602899-team-923241651@sherburn-u10-calendar
+SEQUENCE:0
+CATEGORIES:Football,Sherburn U10 Tigers
+DESCRIPTION:Opponent: Goole Town Tigers JFC U10 Black\nHome/Away: Home\nHo
+ me team: Sherburn White Rose Juniors U10 Tigers\nAway team: Goole Town Tig
+ ers JFC U10 Black\nCompetition: U10 Autumn Wembley\nFA fixture ID: 3060289
+ 9\nSource: https://fulltime.thefa.com/displayFixture.html?id=30602899
+LAST-MODIFIED:20260906T154402Z
+LOCATION:SHERBURN WHITE ROSE AMATEUR FOOTBALL CLUB #2
+STATUS:CONFIRMED
+URL:https://fulltime.thefa.com/displayFixture.html?id=30602899
+X-FA-FIXTURE-ID:30602899
+X-FA-SOURCE-HASH:3630689cd2903c446bd7d62be98a72cc6c46d72c87de3e370acd6eada
+ 755e74d
+X-FA-TEAM-ID:923241651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherburn U10 Tigers at Kellingley Welfare U10 Blues (Away)
+DTSTART:20260926T093000Z
+DTEND:20260926T110000Z
+DTSTAMP:20260906T154402Z
+UID:fa-fulltime-30602942-team-923241651@sherburn-u10-calendar
+SEQUENCE:0
+CATEGORIES:Football,Sherburn U10 Tigers
+DESCRIPTION:Opponent: Kellingley Welfare U10 Blues\nHome/Away: Away\nHome 
+ team: Kellingley Welfare U10 Blues\nAway team: Sherburn White Rose Juniors
+  U10 Tigers\nCompetition: U10 Autumn Wembley\nFA fixture ID: 30602942\nSou
+ rce: https://fulltime.thefa.com/displayFixture.html?id=30602942
+LAST-MODIFIED:20260906T154402Z
+LOCATION:Kellingley Welfare U10 Blues
+STATUS:CONFIRMED
+URL:https://fulltime.thefa.com/displayFixture.html?id=30602942
+X-FA-FIXTURE-ID:30602942
+X-FA-SOURCE-HASH:5a0f2b4e0c3ad94a88336563e809ea6d1333fe97e5729cc1e3a8386d1
+ f1caa08
+X-FA-TEAM-ID:923241651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherburn U10 Tigers vs Swillington Saints Welfare U10 Yellow (Home
+ )
+DTSTART:20261003T093000Z
+DTEND:20261003T110000Z
+DTSTAMP:20260906T154402Z
+UID:fa-fulltime-30602958-team-923241651@sherburn-u10-calendar
+SEQUENCE:0
+CATEGORIES:Football,Sherburn U10 Tigers
+DESCRIPTION:Opponent: Swillington Saints Welfare U10 Yellow\nHome/Away: Ho
+ me\nHome team: Sherburn White Rose Juniors U10 Tigers\nAway team: Swilling
+ ton Saints Welfare U10 Yellow\nCompetition: U10 Autumn Wembley\nFA fixture
+  ID: 30602958\nSource: https://fulltime.thefa.com/displayFixture.html?id=3
+ 0602958
+LAST-MODIFIED:20260906T154402Z
+LOCATION:SHERBURN WHITE ROSE AMATEUR FOOTBALL CLUB #2
+STATUS:CONFIRMED
+URL:https://fulltime.thefa.com/displayFixture.html?id=30602958
+X-FA-FIXTURE-ID:30602958
+X-FA-SOURCE-HASH:656d7a7f663205bdeb469c0a5c23f1905b1937a55066f50b95c8484cb
+ 2a10bae
+X-FA-TEAM-ID:923241651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherburn U10 Tigers at Snaith Juniors U9 Tornadoes (Away)
+DTSTART:20261010T093000Z
+DTEND:20261010T110000Z
+DTSTAMP:20260906T154402Z
+UID:fa-fulltime-30603011-team-923241651@sherburn-u10-calendar
+SEQUENCE:0
+CATEGORIES:Football,Sherburn U10 Tigers
+DESCRIPTION:Opponent: Snaith Juniors U9 Tornadoes\nHome/Away: Away\nHome t
+ eam: Snaith Juniors U9 Tornadoes\nAway team: Sherburn White Rose Juniors U
+ 10 Tigers\nCompetition: U10 Autumn Wembley\nFA fixture ID: 30603011\nSourc
+ e: https://fulltime.thefa.com/displayFixture.html?id=30603011
+LAST-MODIFIED:20260906T154402Z
+LOCATION:SNAITH PLAYING FIELDS
+STATUS:CONFIRMED
+URL:https://fulltime.thefa.com/displayFixture.html?id=30603011
+X-FA-FIXTURE-ID:30603011
+X-FA-SOURCE-HASH:3bc9165466322971a17d4a4914d161aa75f224781f315ad4d0b9bb1df
+ 83e2723
+X-FA-TEAM-ID:923241651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherburn U10 Tigers vs Garforth Villa U10 White (Home)
+DTSTART:20261017T093000Z
+DTEND:20261017T110000Z
+DTSTAMP:20260906T154402Z
+UID:fa-fulltime-30603023-team-923241651@sherburn-u10-calendar
+SEQUENCE:0
+CATEGORIES:Football,Sherburn U10 Tigers
+DESCRIPTION:Opponent: Garforth Villa U10 White\nHome/Away: Home\nHome team
+ : Sherburn White Rose Juniors U10 Tigers\nAway team: Garforth Villa U10 Wh
+ ite\nCompetition: U10 Autumn Wembley\nFA fixture ID: 30603023\nSource: htt
+ ps://fulltime.thefa.com/displayFixture.html?id=30603023
+LAST-MODIFIED:20260906T154402Z
+LOCATION:SHERBURN WHITE ROSE AMATEUR FOOTBALL CLUB #2
+STATUS:CONFIRMED
+URL:https://fulltime.thefa.com/displayFixture.html?id=30603023
+X-FA-FIXTURE-ID:30603023
+X-FA-SOURCE-HASH:def01c03ec4c4c705f1d8209b04f6ae4c5a7a6eea1e2b113db237e08b
+ ac35dff
+X-FA-TEAM-ID:923241651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherburn U10 Tigers at Crofton Juniors U10 Phoenix (Away)
+DTSTART:20261024T093000Z
+DTEND:20261024T110000Z
+DTSTAMP:20260906T154402Z
+UID:fa-fulltime-30603060-team-923241651@sherburn-u10-calendar
+SEQUENCE:0
+CATEGORIES:Football,Sherburn U10 Tigers
+DESCRIPTION:Opponent: Crofton Juniors U10 Phoenix\nHome/Away: Away\nHome t
+ eam: Crofton Juniors U10 Phoenix\nAway team: Sherburn White Rose Juniors U
+ 10 Tigers\nCompetition: U10 Autumn Wembley\nFA fixture ID: 30603060\nSourc
+ e: https://fulltime.thefa.com/displayFixture.html?id=30603060
+LAST-MODIFIED:20260906T154402Z
+LOCATION:Crofton Juniors U9 Phoenix
+STATUS:CONFIRMED
+URL:https://fulltime.thefa.com/displayFixture.html?id=30603060
+X-FA-FIXTURE-ID:30603060
+X-FA-SOURCE-HASH:42872d737f4bcba971a49509d20559868b2345ec6109bb802bc3fa3ac
+ ecc6075
+X-FA-TEAM-ID:923241651
+END:VEVENT
+END:VCALENDAR

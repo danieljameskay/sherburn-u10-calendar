@@ -79,24 +79,26 @@ X-FA-SOURCE-HASH:5a0f2b4e0c3ad94a88336563e809ea6d1333fe97e5729cc1e3a8386d1
 X-FA-TEAM-ID:923241651
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sherburn U10 Tigers vs Swillington Saints Welfare U10 Yellow (Home
- )
+SUMMARY:[REMOVED] Sherburn U10 Tigers vs Swillington Saints Welfare U10 Ye
+ llow (Home)
 DTSTART:20261003T093000Z
 DTEND:20261003T110000Z
-DTSTAMP:20260906T154402Z
+DTSTAMP:20261003T113740Z
 UID:fa-fulltime-30602958-team-923241651@sherburn-u10-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Football,Sherburn U10 Tigers
 DESCRIPTION:Opponent: Swillington Saints Welfare U10 Yellow\nHome/Away: Ho
  me\nHome team: Sherburn White Rose Juniors U10 Tigers\nAway team: Swilling
  ton Saints Welfare U10 Yellow\nCompetition: U10 Autumn Wembley\nFA fixture
   ID: 30602958\nSource: https://fulltime.thefa.com/displayFixture.html?id=3
  0602958
-LAST-MODIFIED:20260906T154402Z
+LAST-MODIFIED:20261003T113740Z
 LOCATION:SHERBURN WHITE ROSE AMATEUR FOOTBALL CLUB #2
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://fulltime.thefa.com/displayFixture.html?id=30602958
 X-FA-FIXTURE-ID:30602958
+X-FA-REMOVED-ON:2026-10-03
+X-FA-REMOVED-UNTIL:2026-11-02
 X-FA-SOURCE-HASH:656d7a7f663205bdeb469c0a5c23f1905b1937a55066f50b95c8484cb
  2a10bae
 X-FA-TEAM-ID:923241651

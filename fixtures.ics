@@ -8,31 +8,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-SUMMARY:[REMOVED] Sherburn U10 Tigers vs Swillington Saints Welfare U10 Ye
- llow (Home)
-DTSTART:20261003T093000Z
-DTEND:20261003T110000Z
-DTSTAMP:20261003T113740Z
-UID:fa-fulltime-30602958-team-923241651@sherburn-u10-calendar
-SEQUENCE:1
-CATEGORIES:Football,Sherburn U10 Tigers
-DESCRIPTION:Opponent: Swillington Saints Welfare U10 Yellow\nHome/Away: Ho
- me\nHome team: Sherburn White Rose Juniors U10 Tigers\nAway team: Swilling
- ton Saints Welfare U10 Yellow\nCompetition: U10 Autumn Wembley\nFA fixture
-  ID: 30602958\nSource: https://fulltime.thefa.com/displayFixture.html?id=3
- 0602958
-LAST-MODIFIED:20261003T113740Z
-LOCATION:SHERBURN WHITE ROSE AMATEUR FOOTBALL CLUB #2
-STATUS:CANCELLED
-URL:https://fulltime.thefa.com/displayFixture.html?id=30602958
-X-FA-FIXTURE-ID:30602958
-X-FA-REMOVED-ON:2026-10-03
-X-FA-REMOVED-UNTIL:2026-11-02
-X-FA-SOURCE-HASH:656d7a7f663205bdeb469c0a5c23f1905b1937a55066f50b95c8484cb
- 2a10bae
-X-FA-TEAM-ID:923241651
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[REMOVED] Sherburn U10 Tigers at Snaith Juniors U9 Tornadoes (Away
  )
 DTSTART:20261010T093000Z
@@ -145,6 +120,27 @@ URL:https://fulltime.thefa.com/displayFixture.html?id=31109721
 X-FA-FIXTURE-ID:31109721
 X-FA-SOURCE-HASH:f3a675c3a8df6e70507142e8c7a206baae7545fe225b16b0ce4888804
  8c6e4aa
+X-FA-TEAM-ID:923241651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sherburn U10 Tigers vs Townville Allstars U10 (Home)
+DTSTART:20261205T103000Z
+DTEND:20261205T120000Z
+DTSTAMP:20261103T005627Z
+UID:fa-fulltime-31109766-team-923241651@sherburn-u10-calendar
+SEQUENCE:0
+CATEGORIES:Football,Sherburn U10 Tigers
+DESCRIPTION:Opponent: Townville Allstars U10\nHome/Away: Home\nHome team: 
+ Sherburn White Rose Juniors U10 Tigers\nAway team: Townville Allstars U10\
+ nCompetition: U10 Winter Wembley\nFA fixture ID: 31109766\nSource: https:/
+ /fulltime.thefa.com/displayFixture.html?id=31109766
+LAST-MODIFIED:20261103T005627Z
+LOCATION:SHERBURN WHITE ROSE AMATEUR FOOTBALL CLUB #2
+STATUS:CONFIRMED
+URL:https://fulltime.thefa.com/displayFixture.html?id=31109766
+X-FA-FIXTURE-ID:31109766
+X-FA-SOURCE-HASH:8b69270115a9cbac8fb8b6f95e9dc27f9f9d1927758e24f6e3b341794
+ b170e09
 X-FA-TEAM-ID:923241651
 END:VEVENT
 END:VCALENDAR

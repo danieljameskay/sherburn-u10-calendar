@@ -55,24 +55,26 @@ X-FA-SOURCE-HASH:42872d737f4bcba971a49509d20559868b2345ec6109bb802bc3fa3ac
 X-FA-TEAM-ID:923241651
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sherburn U10 Tigers at Swillington Saints Welfare U10 Yellow (Away
- )
+SUMMARY:[REMOVED] Sherburn U10 Tigers at Swillington Saints Welfare U10 Ye
+ llow (Away)
 DTSTART:20261114T103000Z
 DTEND:20261114T120000Z
-DTSTAMP:20261026T125832Z
+DTSTAMP:20261115T062547Z
 UID:fa-fulltime-31109262-team-923241651@sherburn-u10-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Football,Sherburn U10 Tigers
 DESCRIPTION:Opponent: Swillington Saints Welfare U10 Yellow\nHome/Away: Aw
  ay\nHome team: Swillington Saints Welfare U10 Yellow\nAway team: Sherburn 
  White Rose Juniors U10 Tigers\nCompetition: U10 Champions League PSV Eindh
  oven\nFA fixture ID: 31109262\nSource: https://fulltime.thefa.com/displayF
  ixture.html?id=31109262
-LAST-MODIFIED:20261026T125832Z
+LAST-MODIFIED:20261115T062547Z
 LOCATION:SWILLINGTON MINERS WELFARE CLUB
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://fulltime.thefa.com/displayFixture.html?id=31109262
 X-FA-FIXTURE-ID:31109262
+X-FA-REMOVED-ON:2026-11-15
+X-FA-REMOVED-UNTIL:2026-12-15
 X-FA-SOURCE-HASH:6d7796a9128addbc4c47f9c22556b5f2b25e18ed48a9ea0d61cbec6d5
  f658cd5
 X-FA-TEAM-ID:923241651
